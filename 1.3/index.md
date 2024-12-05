@@ -3,6 +3,6 @@
 [Parent Directory](../)
 
 - [full](/1.3/full/)
-- [minifed](/1.3/minifed/eaglercraft.html)
+- [minified](/1.3/minified/)
 
-[Games Site](https://games.mcalec.dev/games) | [Main Site](https://mcalec.dev/)
+[GitHub Repo](https://github.com/mcalec-dev/eaglercraft.mcalec.dev) | [Games Site](https://games.mcalec.dev/games) | [Main Site](https://mcalec.dev/)

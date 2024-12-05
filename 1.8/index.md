@@ -3,6 +3,7 @@
 [Parent Directory](../)
 
 - [full](/1.8/full/)
-- [minifed](/1.8/minifed/eaglercraftx.html)
+- [minified](/1.8/minified/)
+- [wasm-gc](/1.8/wasm-gc/)
 
-[Games Site](https://games.mcalec.dev/games) | [Main Site](https://mcalec.dev/)
+[GitHub Repo](https://github.com/mcalec-dev/eaglercraft.mcalec.dev) | [Games Site](https://games.mcalec.dev/games) | [Main Site](https://mcalec.dev/)
